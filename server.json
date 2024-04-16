@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-04-15T17:38:45.640Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-04-14T17:38:45.640Z"
+    },
+    {
+      "id": "3",
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 2020,
+      "createdAt": "2024-04-12T17:38:45.640Z"
+    },
+    {
+      "id": "4",
+      "description": "Celular",
+      "type": "outcome",
+      "category": "Despesas",
+      "price": 150,
+      "createdAt": "2024-04-12T17:38:45.640Z"
+    },
+    {
+      "id": "5",
+      "description": "Salário",
+      "type": "income",
+      "category": "Trabalho",
+      "price": 4200,
+      "createdAt": "2024-03-30T17:38:45.640Z"
+    },
+    {
+      "id": "6",
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-04-01T17:38:45.640Z"
+    },
+    {
+      "id": "a7e7",
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-04-16T14:09:23.086Z"
+    },
+    {
+      "id": "b060",
+      "description": "pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-04-16T14:27:44.440Z"
+    }
+  ]
+}
